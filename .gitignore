@@ -1,0 +1,6 @@
+# Ignore all logs and raw data
+**/logs/*
+**/data/input/*
+*.Rproj
+.Rhistory
+.RData
