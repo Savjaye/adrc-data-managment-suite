@@ -46,5 +46,5 @@ for (protocol_id in protocol_dir_map$protocol_id){
   # write the output to the appropriate tab in the google sheet 
   sheet_name = protocol_dir_map[protocol_dir_map$protocol_id == protocol_id, ]$sheet_name
   print(sheet_name)
-  #write_google_sheet(sheet_link, sheet_name, tbl_protocol_report)
+  write_google_sheet(sheet_link, sheet_name, tbl_protocol_report)
 }
