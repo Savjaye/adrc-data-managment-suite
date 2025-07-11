@@ -1,0 +1,6 @@
+﻿protocol_id,consent_dir,consent_naming_convention,join_key,sample_type,sheet_name
+55,/Volumes/adrc_users/Regulatory/ADRC Longitudinal 170957 (EL)/Scanned-Signed Longitudinal Consents,0ADRC_fml_Long_Consents_YYYY,adrc_long_id,,Longitudinal ( protocol_id = 55 )
+148,/Volumes/adrc_users/Regulatory/ipsc-ADRC stem cell skin punch (EL)/Signed Consents,subID_0ADRC_fml_MM.DD.YYYY,subject_id,skin,iPSc ( protocol_id = 148 )
+197,/Volumes/adrc_users/Regulatory/Biomarkers 170325 (EL)/Scanned Consent Forms/MDC Consent Forms,subID_fml_MM.DD.YYYY,subject_id,lp,Biomarkers ( protocol_id = 197 )
+231,/Volumes/adrc_users/Regulatory/Neurology Bank 101789 (EL)/scanned consents,subID_0ADRC_fml_MM.DD.YYYY_study,subject_id,,Neuro Bank ( protocol _id= 231 )
+autopsy,,Last_First_ADRC_YYYY_BES,adrc_long_id,,Autopsy 
